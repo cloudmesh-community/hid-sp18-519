@@ -1,4 +1,6 @@
-\section{Apache SystemML}
+## Apache SystemML
+
+:o: same issues as other entries
 
 Apache SystemML is an~\cite{systemml} open-source language and
 compiler that makes it dramatically easier to build custom machine
