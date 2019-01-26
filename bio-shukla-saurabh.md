@@ -1,5 +1,4 @@
-
-\subsection{Shukla, Saurabh}
+# Shukla, Saurabh
 
 Saurabh Shukla lives in Columbus, Indiana. This is his 5th semester
 into the Online MS Data Science program. Currently working as Data
